@@ -31,7 +31,13 @@
     "react-dom": "^18.2.0",
     "react-use": "^17.4.0",
     "three": "^0.150.1",
-    "zustand": "4.3.6"
+    "zustand": "4.3.6",
+     "extend-shallow": "3.0.2",
+      "is-extendable": "1.0.1",
+      "react-is": "18.2.0",
+      "scheduler": "0.23.0",
+      "throttle-debounce": "5.0.0",
+      "zustand": "4.3.6"
   },
   "devDependencies": {
     "@builder.io/partytown": "^0.7.5",
@@ -54,14 +60,4 @@
     "sass": "^1.59.3",
     "stats.js": "^0.17.0"
   },
-  "pnpm": {
-    "overrides": {
-      "extend-shallow": "3.0.2",
-      "is-extendable": "1.0.1",
-      "react-is": "18.2.0",
-      "scheduler": "0.23.0",
-      "throttle-debounce": "5.0.0",
-      "zustand": "4.3.6"
-    }
-  }
 }
